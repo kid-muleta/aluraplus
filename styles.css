@@ -148,5 +148,5 @@ Body {
 
 .container_botão:hover {
     background-color: var(--botao-azul-efeito);
-    color: var(--cor-vinicius.laczkowski@escola.pr.gode-fundo);
+    color: var(--cor-de-fundo);
 }
